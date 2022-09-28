@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../typechain-types"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../test"
+		},
+		{
+			"path": "../cache"
+		},
+		{
+			"path": "../contracts"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../artifacts"
+		}
+	]
+}
